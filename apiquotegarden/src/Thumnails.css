@@ -1,0 +1,21 @@
+.contenedorMiniatura{
+    position: relative;
+    width: 20%;
+    display: inline-block;
+  /*  border:8px solid white;*/
+}
+.miniatura{
+    display: block;
+    width: 95%;
+    border:8px solid white;
+}
+.pieMiniatura{
+    position:absolute;
+    font-size:smaller;
+    top:15%;
+    left:15%;
+}
+
+.miniatura:hover{
+    border: 8px solid black;
+}

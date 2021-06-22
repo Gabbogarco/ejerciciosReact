@@ -1,0 +1,30 @@
+.contenedor{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.izquierda{
+  width: 45%;
+  border:8px solid white;    
+}
+.izquierda-cabecera{ 
+  position: fixed;
+ 
+}
+
+.derecha{
+  border:8px solid white;
+  width: 48%;
+}
+
+.derecha-lista{
+  
+  display:inline-block;
+  width: 100%;
+}
+/*x*/
+.miniatura{
+  width: 25%;
+    
+}
